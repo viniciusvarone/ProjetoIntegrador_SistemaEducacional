@@ -1,4 +1,4 @@
-# ProjetoIntegrador_SistemaEducacional
+# SistemaEducacional
 
 # 🖥️ Projeto Integrador — Sobre o projeto 
 
