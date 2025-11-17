@@ -50,6 +50,7 @@ O protótipo inclui:
 - **Protótipos Interativos**
 - **SQL**
 - **MySQL Workbench**
+- **HTML**
 
 ---
 
