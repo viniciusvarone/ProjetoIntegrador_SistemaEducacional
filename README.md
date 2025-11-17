@@ -36,9 +36,9 @@ O protótipo inclui:
 ---
 
 ## 📁 Arquivos incluídos
-- `/figma/` → Arquivo `.fig` exportado  
-- `/images/` → Imagens PNG/JPG das telas  
-- `/docs/` → Documentação (se aplicável)  
+- `/diagramas/` → Imagem do Diagrama de Casos de uso e do Diagrama de Classe 
+- `/modelo_dados/` → Scripts SQL de modelagem, inserção de dados e validação; e imagem do diagrama do banco de dados
+- `/prototipos/` → Protótipo no Figma e Protótipo no HTML
 - `README.md` → Arquivo atual  
 
 ---
@@ -55,7 +55,6 @@ O protótipo inclui:
 ---
 
 ## 👥 Integrantes da equipe
-
 
 - **Gustavo Troffer** — Prototipagem / UI  
 - **Maria Eduarda**  
