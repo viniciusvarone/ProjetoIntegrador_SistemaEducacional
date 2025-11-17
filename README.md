@@ -57,10 +57,10 @@ O protótipo inclui:
 ## 👥 Integrantes da equipe
 
 - **Gustavo Troffer** — Prototipagem / UI  
-- **Maria Eduarda**  
+- **Maria Eduarda**  — Prototipagem / UI  
 - **Vinicius Varone** — Modelagem / Banco de Dados
 - **Filipi Monte**
-- **João Paulo Lima**
+- **João Paulo Lima** - Prototipo em HTML
 
 ---
 
