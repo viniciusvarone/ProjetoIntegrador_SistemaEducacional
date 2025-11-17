@@ -52,6 +52,7 @@ O protótipo inclui:
 - **Maria Eduarda**  
 - **Vinicius Rarone**  
 - **Filipi Monte**
+- **João Paulo Lima**
 
 ---
 
