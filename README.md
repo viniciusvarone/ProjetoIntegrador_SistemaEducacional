@@ -1,7 +1,5 @@
 # ProjetoIntegrador_SistemaEducacional
 
----
-
 # 🖥️ Projeto Integrador — Sobre o projeto 
 
 O objetivo deste projeto é desenvolver uma solução para fins acadêmicos na disciplina de **Projeto Integrador**, apresentando a jornada do usuário e a interface do sistema.
