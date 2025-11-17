@@ -1,8 +1,20 @@
 # ProjetoIntegrador_SistemaEducacional
 # 🖥️ Projeto Integrador — Protótipo no Figma
 
-Este repositório contém o **protótipo desenvolvido no Figma** para o Projeto Integrador.  
-A prototipagem foi criada com foco em **clareza**, **usabilidade** e **organização do fluxo de navegação**.
+Este repositório contém:
+
+- **Protótipo de interface no Figma**  
+  - Criado com foco em clareza, usabilidade e organização do fluxo de navegação.
+
+- **Modelagem e implementação do banco de dados**  
+  - Modelos conceitual e lógico.
+  - Script SQL com criação de tabelas, chaves primárias e estrangeiras.
+  - Inserções de dados e consultas para validação.
+
+- **Protótipo alternativo em HTML**  
+  - Versão navegável da interface, demonstrando as telas e interações em ambiente web.
+
+Essa abordagem integrada permite visualizar tanto a **estrutura lógica** quanto a **experiência de uso** do sistema.
 
 ---
 
@@ -42,6 +54,8 @@ O protótipo inclui:
 - **Auto Layout**  
 - **Componentização**  
 - **Protótipos Interativos**
+- **SQL**
+- **MySQL Workbench**
 
 ---
 
@@ -50,7 +64,7 @@ O protótipo inclui:
 
 - **Gustavo Troffer** — Prototipagem / UI  
 - **Maria Eduarda**  
-- **Vinicius Rarone**  
+- **Vinicius Varone** — Modelagem / Banco de Dados
 - **Filipi Monte**
 - **João Paulo Lima**
 
