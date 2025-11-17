@@ -1,6 +1,10 @@
 # ProjetoIntegrador_SistemaEducacional
-# 🖥️ Projeto Integrador
 
+---
+
+# 🖥️ Projeto Integrador — Sobre o projeto 
+
+O objetivo deste projeto é desenvolver uma solução para fins acadêmicos na disciplina de **Projeto Integrador**, apresentando a jornada do usuário e a interface do sistema.
 Este repositório contém:
 
 - **Protótipo de interface no Figma**  
@@ -15,14 +19,6 @@ Este repositório contém:
   - Versão navegável da interface, demonstrando as telas e interações em ambiente web.
 
 Essa abordagem integrada permite visualizar tanto a **estrutura lógica** quanto a **experiência de uso** do sistema.
-
----
-
-## 📌 Sobre o projeto
-O objetivo deste projeto é desenvolver uma solução para fins acadêmicos na disciplina de **Projeto Integrador**, apresentando a jornada do usuário e a interface do sistema.
-
-Esse documento inclui:
-**prototipagem da interface no Figma**.
 
 ---
 
