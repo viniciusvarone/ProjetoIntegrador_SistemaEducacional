@@ -1,5 +1,5 @@
 # ProjetoIntegrador_SistemaEducacional
-# 🖥️ Projeto Integrador — Protótipo no Figma
+# 🖥️ Projeto Integrador
 
 Este repositório contém:
 
