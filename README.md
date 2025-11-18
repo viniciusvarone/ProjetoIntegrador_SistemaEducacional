@@ -36,7 +36,7 @@ O protótipo inclui:
 ---
 
 ## 📁 Arquivos incluídos
-- `/diagramas/` → Imagem do Diagrama de Casos de uso e do Diagrama de Classe 
+- `/diagramas/` → Imagem do Diagrama de Casos de uso e do Diagrama de Classe, além do arquivo pdf da primeira entrega do projeto
 - `/modelo_dados/` → Scripts SQL de modelagem, inserção de dados e validação; e imagem do diagrama do banco de dados
 - `/prototipos/` → Protótipo no Figma e Protótipo no HTML
 - `README.md` → Arquivo atual  
