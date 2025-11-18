@@ -59,8 +59,8 @@ O protótipo inclui:
 - **Gustavo Troffer** — Prototipagem / UI  
 - **Maria Eduarda**  — Prototipagem / UI  
 - **Vinicius Varone** — Modelagem / Banco de Dados
-- **Filipi Monte**
-- **João Paulo Lima** - Prototipo em HTML
+- **Filipi Monte** — Documentação
+- **João Paulo Lima** — Prototipo em HTML
 
 ---
 
